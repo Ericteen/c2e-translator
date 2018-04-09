@@ -12,6 +12,10 @@
     "directories": {
         "lib": "lib"
     },
+    "repository": {
+        "type": "git",
+        "url": "git https://github.com/Ericteen/c2e-translator.git"
+    },
     "dependencies": {
         "chalk": "^2.3.2",
         "inquirer": "^5.2.0",
@@ -24,5 +28,9 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "cheng_guanghui <chengteen@yeah.net> (https://github.com/Ericteen)",
-    "license": "MIT"
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Ericteen/c2e-translator/issues"
+    },
+    "homepage": "https://github.com/Ericteen/c2e-translator#readme"
 }
